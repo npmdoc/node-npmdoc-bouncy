@@ -1,9 +1,14 @@
-# api documentation for  [bouncy (v3.2.2)](https://github.com/substack/bouncy)  [![npm package](https://img.shields.io/npm/v/npmdoc-bouncy.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bouncy) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bouncy.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bouncy)
+# npmdoc-bouncy
+
+#### api documentation for  [bouncy (v3.2.2)](https://github.com/substack/bouncy)  [![npm package](https://img.shields.io/npm/v/npmdoc-bouncy.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bouncy) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bouncy.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bouncy)
+
 #### route incoming http requests to http servers
 
-[![NPM](https://nodei.co/npm/bouncy.png?downloads=true)](https://www.npmjs.com/package/bouncy)
+[![NPM](https://nodei.co/npm/bouncy.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/bouncy)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-bouncy/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-bouncy_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-bouncy/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-bouncy/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-bouncy/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-bouncy/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-bouncy/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-bouncy/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "James Halliday",
-        "email": "mail@substack.net",
         "url": "http://substack.net"
     },
     "bin": {
@@ -58,13 +62,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "substack",
-            "email": "mail@substack.net"
+            "name": "substack"
         }
     ],
     "name": "bouncy",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/substack/bouncy.git"
@@ -75,16 +77,6 @@
     "version": "3.2.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module bouncy](#apidoc.module.bouncy)
-
-
-
-# <a name="apidoc.module.bouncy"></a>[module bouncy](#apidoc.module.bouncy)
 
 
 
